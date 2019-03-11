@@ -2,6 +2,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.15.2"
 title: Home Page
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
